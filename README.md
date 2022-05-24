@@ -1,4 +1,4 @@
-# kaggle_citizen_movement
+# Kaggle Competition Citizen Movement Prediction 
 Group1 code for [kaggle competition](https://www.kaggle.com/competitions/citizen-movement-analysis). The data is also available on this kaggle website.
 
 ## How to Run
